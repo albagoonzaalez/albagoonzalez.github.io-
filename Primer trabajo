@@ -1,0 +1,105 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+    </head>
+             <style>
+        body {font-family: serif ;}
+      #cruceroporelmediterraneo {color: rgb(40, 112, 100);
+             font-family:monospace;
+              }
+            #p{color: rgb(148, 28, 92);}
+            
+             #paris {color: rgb(136, 83, 189);
+             font-family:monospace;
+              }
+              #hola{color: rgb(71, 21, 117);
+             font-family: sans-serif;
+              }
+               body{
+        background-color:rgb(203, 169, 242);
+   
+    background-attachment:fixed;
+    background-size:617px;
+    }
+  </style>
+    <body>
+         
+     
+        <h1>ALBA's blog</h1>
+
+    
+     
+
+        <h3>Contents</h3>
+        <ul>
+            <li id="p" >CRUCERO POR EL MEDITERRANEO !</li>
+             <li id="p" >DISNEY LAND PARIS !</li>
+        </ul>
+        
+        <h2 id="hola">CRUCERO POR EL MEDITERRANEO</h2>
+        
+        <h5>15-9-2012</h5>
+        
+        <p id="cruceroporelmediterraneo">Con las rutas del Mediterráneo siempre obtendrás una enriquecedora experiencia.<br> Las clásicas rutas del Mediterráneo nunca han perdido su encanto por ser una de las zonas con más historia y cuna de culturas ancestrales.<br> La gran variedad de oferta cultural y relax que ofrecen estas rutas siempre enamoran al viajero.</p>
+
+<p id="cruceroporelmediterraneo">Entre los destinos más interesantes para visitar puedes encontrar: Roma, Florencia, Pisa, Niza, Mónaco, Nápoles, Sicilia, Malta, Cerdeña.<br> En Logitravel tenemos todos los cruceros que navegan por el Mediterráneo, y además, la gran mayoría con salida desde puerto español: Barcelona, Valencia, Palma, Málaga. Barcelona, es uno de los puertos del Mediterráneo Occidental más importantes.</p>
+ <img src="https://www.diarioabierto.es/wp-content/uploads/2019/10/cruceros-exclusivos.jpg">
+ <table>
+            <thead>
+                <tr>
+                    <th>RESTAURANTE </th>
+                    <th>PLATO RECOMENDADO </th>
+                    <th>PRECIO </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><a href="https://miss-tem.negocio.site/">Miss Tem</a></td>
+                    <td>Pollo</td>
+                    <td>10</td>
+                </tr>
+                 <tr>
+                    <td><a href="https://www.comerconarte.es/es/">Comer Con Arte</a></td>
+                    <td>ternera</td>
+                    <td>19</td>
+                </tr>
+                
+                
+            </tbody>
+            
+        </table>
+
+ <h2 id="hola">DISNEY LAND PARIS</h2>
+ <h5>15-5-2010</h5>
+        
+        <p id="paris">El día de mi experiencia el clima no fue el mejor y no se pudo aprovechar al máximo porque muchos juegos estaban cerrados y tampoco había mucho personal.<br> Recomiendo revisar el clima antes de ir.<br> Es muy parecido al parque de California, hay unos 3 juegos diferentes al otro parque.</p>
+        <img src="https://www.valenciabonita.es/wp-content/uploads/2017/04/P1320464.jpg">
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>RESTAURANTE </th>
+                    <th>PLATO RECOMENDADO </th>
+                    <th>PRECIO </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><a href="https://www.oetkercollection.com/fr/hotels/le-bristol-paris/restaurants-et-bar/epicure/">Epicure</a></td>
+                    <td>Arroz</td>
+                    <td>60</td>
+                </tr>
+                 <tr>
+                    <td><a href="https://www.paris-restaurant-pur.fr/?src=prop_gmb_seo_purjfr">Pur' - Jean-François Rouquette</a></td>
+                    <td>Pasta</td>
+                    <td>50</td>
+                </tr>
+                
+                
+            </tbody>
+            
+        </table>
+        
+    </body>
+</html>
